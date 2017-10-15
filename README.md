@@ -10,3 +10,6 @@ Collection of various information for devs
 
 ## jQuery plugins
 - [Sisyphus.js](http://sisyphus-js.herokuapp.com/): "Gmail-like client-side drafts and bit more"
+
+## Others
+- [dev.to](https://dev.to/): Online programmers community
