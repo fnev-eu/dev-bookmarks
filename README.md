@@ -7,6 +7,7 @@ Collection of various information for devs
 - [Creating your own ReSTful API using node](https://medium.com/suchan211/creating-your-own-restful-api-using-node-34e3fc4edd6a): Medium article by [@cmtanko](https://github.com/cmtanko) with a Node/Express starter kit.
 - [LoopBack](http://loopback.io/): LoopBack is a highly-extensible, open-source Node.js API framework
 - [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api): Good article from [@veesahni](https://twitter.com/veesahni)
+- [API REST & Symfony2](https://rjanot.github.io/conf_api_rest_oauth/): Make a REST API with FOSRestBundle and OAuth2. (French)
 
 ## Appearance
 - [How a CSS triangle is made](https://codepen.io/chriscoyier/pen/lotjh "View on Codepen.io"): Animation and code example to make a triangle only with CSS.
