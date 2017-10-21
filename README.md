@@ -18,3 +18,4 @@ Collection of various information for devs
 ## Others
 - [dev.to](https://dev.to/): Online programmers community
 - [PuPHPet](https://puphpet.com): A simple GUI to set up virtual machines for Web development.
+- [](https://fr.sendinblue.com/): SMS and mailing platform
