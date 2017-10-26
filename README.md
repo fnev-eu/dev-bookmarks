@@ -15,7 +15,7 @@ Collection of various information for devs
 ## jQuery plugins
 - [Sisyphus.js](http://sisyphus-js.herokuapp.com/): "Gmail-like client-side drafts and bit more"
 
-## Symfony bundle
+## Symfony bundles
 - [FOSJsRoutingBundle](https://github.com/FriendsOfSymfony/FOSJsRoutingBundle): A pretty nice way to expose your Symfony2 routing to client applications.
 - [KnpPaginatorBundle](https://github.com/KnpLabs/KnpPaginatorBundle): SEO friendly Symfony paginator to sort and paginate
 
