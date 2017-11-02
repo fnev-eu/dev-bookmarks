@@ -8,6 +8,7 @@ Collection of various information for devs
 - [LoopBack](http://loopback.io/): LoopBack is a highly-extensible, open-source Node.js API framework
 - [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api): Good article from [@veesahni](https://twitter.com/veesahni)
 - [API REST & Symfony2](https://rjanot.github.io/conf_api_rest_oauth/): Make a REST API with FOSRestBundle and OAuth2. (French)
+- [xMySQL](https://github.com/o1lab/xmysql): One command to generate REST APIs for any MySql Database.
 
 ## Appearance
 - [How a CSS triangle is made](https://codepen.io/chriscoyier/pen/lotjh "View on Codepen.io"): Animation and code example to make a triangle only with CSS.
