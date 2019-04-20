@@ -19,8 +19,10 @@ Collection of various information for devs
 ## Symfony bundles
 - [FOSJsRoutingBundle](https://github.com/FriendsOfSymfony/FOSJsRoutingBundle): A pretty nice way to expose your Symfony2 routing to client applications.
 - [KnpPaginatorBundle](https://github.com/KnpLabs/KnpPaginatorBundle): SEO friendly Symfony paginator to sort and paginate
+- [Sylius](https://github.com/Sylius/Sylius): Open Source eCommerce Framework on top of Symfony
 
 ## Others
 - [dev.to](https://dev.to/): Online programmers community
 - [PuPHPet](https://puphpet.com): A simple GUI to set up virtual machines for Web development.
 - [SendinBlue](https://fr.sendinblue.com/): SMS and mailing platform
+- [Awesome Uses](https://github.com/wesbos/awesome-uses): Awesome Uses Page
