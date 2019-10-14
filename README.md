@@ -26,3 +26,5 @@ Collection of various information for devs
 - [PuPHPet](https://puphpet.com): A simple GUI to set up virtual machines for Web development.
 - [SendinBlue](https://fr.sendinblue.com/): SMS and mailing platform
 - [Awesome Uses](https://github.com/wesbos/awesome-uses): Awesome Uses Page
+- [Manjaro Linux GitLab](https://gitlab.manjaro.org/explore/groups): Collection of several projects about Manjaro Linux
+- [Nextcloud on Github](https://github.com/nextcloud): All repositories about Nextcloud, free & open source alternative for Google Drive etc.
